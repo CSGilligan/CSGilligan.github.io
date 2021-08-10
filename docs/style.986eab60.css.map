@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,eACE,YAEF,CAOA,0BACE,YACF","file":"style.986eab60.css","sourceRoot":"../content","sourcesContent":["svg .tick > text {\n  font-size: 10;\n  \n}\n\n\n.y_axis path {\n  display:none;\n}\n\n.y_axis line {\n  display:none;\n}\n\n/* .x_axis path {\n  display:none;\n} */"]}
