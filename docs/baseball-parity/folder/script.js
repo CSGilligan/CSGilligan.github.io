@@ -124,7 +124,7 @@ data=data.filter(function(d){ return d.deviation != "--"})
         .attr("y", 0-70)
         .attr("text-anchor", "left")  
         .style("font-size", "14px") 
-        .text("At the end of the most recent complete season (2019), MLB team win totals had a standard deviation of 16.6 - 14% higher than ever before in the post-strike era.")
+        .text("MLB has grown more disparate over recent years. In 2019, team win totals had a standard deviation of 16.6 - higher than ever before in the post-strike era.")
         .attr("font-family", "oxygen")
   
       svg.append("text")
