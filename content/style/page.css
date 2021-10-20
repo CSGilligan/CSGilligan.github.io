@@ -40,8 +40,8 @@ ul.spread {
 }
 
 .beige-theme {
-    background-color: #f9f1e6;
-    color: black;    
+    background-color: #ffe4cc;
+    color: rgb(5, 0, 73);    
 }
 
 img {
@@ -73,11 +73,11 @@ sub-font
 
 
 .super-font, h1, h2, h3, .label + p {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Oxygen', sans-serif;
 }
 
 .sub-font, p, ul, li {
-    font-family: 'Lora', serif;
+    font-family: 'Oxygen', sans-serif;
 }
 
 .headline, h1 {
